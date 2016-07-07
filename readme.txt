@@ -17,7 +17,7 @@
 
 
 1222222
-
+修改bug 101；
 
 命令git checkout -- readme.txt意思就是，把readme.txt文件在工作区的修改全部撤销，这里有两种情况：
 
@@ -30,3 +30,5 @@
 
 
 new dev 分支
+
+
